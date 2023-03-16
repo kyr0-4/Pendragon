@@ -187,6 +187,7 @@ described below.
 			    "qcom,krait"
 			    "qcom,kryo"
 			    "qcom,kryo385"
+			    "qcom,kryo585"
 			    "qcom,scorpion"
 	- enable-method
 		Value type: <stringlist>
